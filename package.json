@@ -6,7 +6,7 @@
   "dependencies": {},
   "devDependencies": {
     "concat-stream": "^1.5.2",
-    "standard": "^8.5.0",
+    "standard": "^8.6.0",
     "tape": "^4.6.2"
   },
   "scripts": {
